@@ -15,7 +15,6 @@ const aboutme = {
             css: ["materialize", "mobile first", "css grid layout"]
         },
     },
-    architecture: [ "Progressive web applications", "Single page applications"],
     currentProject: "Por ahora estoy desrrollando personales para la web para la web ",
     funFact: "Si puedes imaginarlo puedes programarlo"
 };
