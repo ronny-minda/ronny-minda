@@ -7,7 +7,7 @@
 ```javascript
 const aboutme = {
     pronouns: "He" | "Him",
-    code: ["Javascript",  "c++", "Python", "Java"],
+    code: ["Javascript", "c++", "Python", "Java"],
     askMeAbout: ["web dev", "tech", "app dev"],
     technologies: {
         frontEnd: {
@@ -15,7 +15,7 @@ const aboutme = {
             css: ["materialize", "mobile first", "css grid layout"]
         },
     },
-    currentProject: "Por ahora estoy desrrollando personales para la web para la web ",
+    currentProject: "Por ahora estoy desrrollando personales para la web para.",
     funFact: "Si puedes imaginarlo puedes programarlo"
 };
 ```
