@@ -11,7 +11,7 @@ const aboutme = {
     askMeAbout: ["web dev", "tech", "app dev"],
     technologies: {
         frontEnd: {
-            js: ["reat],
+            js: ["reat"],
             css: ["materialize", "mobile first", "css grid layout"]
         },
     },
