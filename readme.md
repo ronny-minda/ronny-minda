@@ -24,6 +24,9 @@ const tecnologias = {
 </h2>
 
 
+<br/>
+
+
 <p align="center">
   <!-- HTML -->
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />&nbsp;&nbsp;
@@ -53,13 +56,13 @@ const tecnologias = {
 
 
 
-<br/>
+<!-- <br/>
 
-<br/>
-
+<br/> -->
+<!-- 
 <h2 align="center">
     Proyectos personales:
-</h2>
+</h2> -->
 
 <p align="center">
 <!-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=ronny-minda&show_icons=true&title_color=fff&icon_color=109eff&text_color=9f9f9f&bg_color=151515" alt="Chandan's Public Github Stats"> -->
