@@ -63,16 +63,19 @@ const tecnologias = {
 <h2 align="center">
     Proyectos personales:
 </h2> -->
+<p align="center">
+<img src="https://camo.githubusercontent.com/23a471da90a362c705358dea2ad97a02b295eabc85f60e9fb3f68fe556e395f7/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d726f6e6e792d6d696e6461266c61796f75743d636f6d70616374267469746c655f636f6c6f723d6630302669636f6e5f636f6c6f723d66303026746578745f636f6c6f723d6666662662675f636f6c6f723d30303030303026626f726465725f7261646975733d313026686964655f626f726465723d74727565" alt="ronny-minda's Top Langs" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronny-minda&amp;layout=compact&amp;title_color=f00&amp;icon_color=f00&amp;text_color=fff&amp;bg_color=000000&amp;border_radius=10&amp;hide_border=true" style="max-width: 100%;">
+</p>  
 
 <p align="center">
-<!-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=ronny-minda&show_icons=true&title_color=fff&icon_color=109eff&text_color=9f9f9f&bg_color=151515" alt="Chandan's Public Github Stats"> -->
+<img src="https://camo.githubusercontent.com/58cebd30dbd366a20b667de417300cd9aab5b24ea3a9bbe4f0a35c34e71cb20f/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d726f6e6e792d6d696e646126636f756e745f707269766174653d747275652673686f775f69636f6e733d74727565267469746c655f636f6c6f723d6630302669636f6e5f636f6c6f723d31303965666626746578745f636f6c6f723d6666662662675f636f6c6f723d30303030303026626f726465725f7261646975733d313026686964655f626f726465723d74727565" alt="ronny-minda's GitHub stats" data-canonical-src="https://github-readme-stats.vercel.app/api?username=ronny-minda&amp;count_private=true&amp;show_icons=true&amp;title_color=f00&amp;icon_color=109eff&amp;text_color=fff&amp;bg_color=000000&amp;border_radius=10&amp;hide_border=true" style="max-width: 100%;">
 </p>  
 
 <br/>
 
-[![ronny-minda's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ronny-minda&layout=compact&title_color=f00&icon_color=f00&text_color=fff&bg_color=000000&border_radius=10&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![ronny-minda's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ronny-minda&layout=compact&title_color=f00&icon_color=f00&text_color=fff&bg_color=000000&border_radius=10&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) -->
 
-[![ronny-minda's GitHub stats](https://github-readme-stats.vercel.app/api?username=ronny-minda&count_private=true&show_icons=true&title_color=f00&icon_color=109eff&text_color=fff&bg_color=000000&border_radius=10&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![ronny-minda's GitHub stats](https://github-readme-stats.vercel.app/api?username=ronny-minda&count_private=true&show_icons=true&title_color=f00&icon_color=109eff&text_color=fff&bg_color=000000&border_radius=10&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) -->
 
 
 
