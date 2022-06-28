@@ -41,7 +41,7 @@ const tecnologias = {
   <!-- React -->
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />&nbsp;&nbsp;
   <!-- Redux -->
-<!--   <img src="https://img.shields.io/badge/Redux-7747bc?style=for-the-badge&logo=redux" alt="Redux" />&nbsp;&nbsp; -->
+  <img src="https://img.shields.io/badge/Redux-7747bc?style=for-the-badge&logo=redux" alt="Redux" />&nbsp;&nbsp;
   <!-- NextJS -->
   <img src="https://img.shields.io/badge/NextJS-0070f5?style=for-the-badge&logo=nextjs" alt="NextJS" />&nbsp;&nbsp;
   <!-- NodeJS -->
@@ -78,10 +78,10 @@ const tecnologias = {
 <!-- [![ronny-minda's GitHub stats](https://github-readme-stats.vercel.app/api?username=ronny-minda&count_private=true&show_icons=true&title_color=f00&icon_color=109eff&text_color=fff&bg_color=000000&border_radius=10&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) -->
 
 
-
+<!-- 
 <p align="center">
 
-</p>  
+</p>   -->
 
 <!-- <h2 align="center">
   Redes de contacto
